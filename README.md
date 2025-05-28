@@ -34,6 +34,40 @@ I'm using this repository to track my learning progress in the following areas:
 
 ---
 
+## 🛠️ Tools & Platforms I’m Learning
+1. AWS Management Console
+2. Azure Portal
+3. Git & GitHub
+4. Visual Studio Code
+5. Linux (Ubuntu)
+6. Terraform
+7. Python (basic scripting)
+
+---
+
+## 💡 Why This Repo?
+
+This repository keeps me accountable and allows me to share what I learn with others. If you’re also on the path to becoming a Cloud Engineer, feel free to fork, follow, or connect. Let’s learn together!
+
+---
+
+## 📬 Get in Touch
+
+I’m open to advice, feedback, and mentorship. Feel free to connect with me:
+
+LinkedIn: http://linkedin.com/in/danhql98
+
+
+Email: danhql93@gmail.com
+
+---
+
+📌 Disclaimer
+
+**I’m a beginner, and this repo is a work in progress. Some info may not be 100% accurate — I’m learning and correcting as I go!**
+
+---
+
 ## 📁 Repository Structure
 
 ```plaintext
