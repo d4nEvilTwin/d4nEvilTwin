@@ -27,6 +27,7 @@ I'm using this repository to track my learning progress in the following areas:
 
 ## 🎯 Certifications I'm Working Towards
 
+- [ ] ⏳ **Google IT Support Professional Certificate**
 - [ ] ⏳ **Git & GitHub Bootcamp by Colt Steele (Udemy)**
 - [ ] ⏳ **AWS Certified Cloud Practitioner**
 - [ ] ⏳ **AWS Certified Solutions Architect - Associate**
